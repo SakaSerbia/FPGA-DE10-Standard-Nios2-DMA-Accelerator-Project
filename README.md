@@ -1,4 +1,4 @@
-# FPGA-DE10-Standard-Nios2-DMA-Accelerator-Project
+# About the project
 Demonstrate the operation of various Avalon bus interfaces and hardware integration module within the processor system. Develop acceleration of the system that performs linear computing functions, Y = AX + B, large amounts of data. 
 
  # Installation
